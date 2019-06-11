@@ -1,0 +1,1 @@
+sudo apt-get install ffmpeg git python3-picamera python3-ws4py
